@@ -21,7 +21,6 @@
 }
 
 body {
-  width: 1600px;
   font-family: "Roboto", sans-serif;
   color: var(--primory-title-color);
   letter-spacing: 0.03em;
@@ -174,7 +173,7 @@ ul {
 }
 
 .hero-container {
-  /* max-width: 1600px; */
+  max-width: 1600px;
   height: 600px;
   margin: 0 auto;
   background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../imges/hero.jpg);
