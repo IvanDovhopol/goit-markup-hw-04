@@ -21,7 +21,7 @@
 }
 
 body {
-  max-width: 1600px;
+  width: 1600px;
   font-family: "Roboto", sans-serif;
   color: var(--primory-title-color);
   letter-spacing: 0.03em;
